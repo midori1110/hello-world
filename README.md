@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Ich bin midori und lerne gerade R hahaha
